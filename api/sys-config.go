@@ -1,8 +1,8 @@
 package api
 
 import (
-	"adams549659584/go-proxy-bingai/api/helper"
-	"adams549659584/go-proxy-bingai/common"
+	"wzwtt/go-proxy-bingai/api/helper"
+	"wzwtt/go-proxy-bingai/common"
 	"net/http"
 )
 
